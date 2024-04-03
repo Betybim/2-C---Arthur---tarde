@@ -1,6 +1,9 @@
-header {
+.cabeçalho {
 background-color:#4791A7;
 color: #A4CE95;
 display:flex;
 justify-content: space-around;
+}
+.cabeçalho-título {
+color: #A4CE95
 }
