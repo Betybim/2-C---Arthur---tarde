@@ -5,12 +5,11 @@ display:flex;
 justify-content: space-around;
 }
 .cabeçalho-título {
-background-color:#4791A7;
-color: #A4CE95;
+    color:#4791A7;
 }
 
 .cabeçalho-lista{
-    color: #4791A7;
+    color: #5da747;
    }
 
 .cabeçalho-imagem{
