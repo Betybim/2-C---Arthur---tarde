@@ -32,7 +32,7 @@ li{
 } 
 
 .cabeçalho-imagem{
-    width: 10%;
+    width: 20%;
     height: 20%;
 }
 
@@ -46,12 +46,12 @@ li{
 }
 
     .Seção1-imagem {
-        width: 30%;
+        width: 20%;
         padding: 24px 0;
         justify-content: center;
-        
+
     }
     .Seção1-imagem {
         width: 20%;
-        height: 10%;
+        height: 20%;
     }
