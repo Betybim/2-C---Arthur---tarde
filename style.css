@@ -15,10 +15,13 @@ justify-content: space-around;
 
 .cabeçalho-lista{
     color: #40f00b;
-    display: inline-block;
-    font-size: 24px;
-   }
+}
 
+li{display: inline-block;
+}
+li{display: inline-block;
+
+}    
 .cabeçalho-imagem{
     width: 20%;
     height: 10%;
