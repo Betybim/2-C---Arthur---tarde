@@ -13,7 +13,7 @@
 
 .cabeçalho-título {
     color:#eb3b0f;
-    font-size: 44px;
+    font-size: 34px;
 }
 
 .cabeçalho-lista{
@@ -32,6 +32,6 @@ li{
 } 
 
 .cabeçalho-imagem{
-    width: 30%;
+    width: %;
     height: 10%;
 }
