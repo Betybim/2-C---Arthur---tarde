@@ -37,5 +37,16 @@ li{
 }
 
 .Seção1{
-    background-image: linear-gradient(#4791A7,#5F5D9C);
+    background-image: linear-gradient(#4791A7,#c6c6d6);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .Seção1-imagem {
+        width: 30%;
+        padding: 24px 0;
+        justify-content: center;
     }
+    
