@@ -7,7 +7,7 @@ color: #A4CE95;
 display:flex;
 padding: 34px 0;
 
-justify-content: space-around;
+justify-content: center;
 }
 .cabeçalho-título {
     color:#eb3b0f;
