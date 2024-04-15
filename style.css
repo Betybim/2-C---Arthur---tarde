@@ -1,14 +1,13 @@
 .cabeçalho {
  background-color:#4791A7;
 display: flex;
-padding: 24px 0;
-
+padding: 50px 0;
 color: #A4CE95;
 display:flex;
 padding: 34px 0;
-
 justify-content: space-around;
 }
+
 .cabeçalho-título {
     color:#eb3b0f;
     font-size: 44px;
@@ -16,6 +15,7 @@ justify-content: space-around;
 
 .cabeçalho-lista{
     color: #40f00b;
+    display: inline-block;
     font-size: 24px;
    }
 
