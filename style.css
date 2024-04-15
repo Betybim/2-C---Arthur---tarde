@@ -5,10 +5,10 @@
 
 .cabeçalho {
  background-color:#4791A7;
-display: flex;
-padding: 24px 0;
-justify-content: space-around;
-align-items: center;
+ display: flex;
+ padding: 24px 0;
+ justify-content: space-around;
+ align-items: center;
 }
 
 .cabeçalho-título {
@@ -32,6 +32,6 @@ li{
 } 
 
 .cabeçalho-imagem{
-    width: 20%;
+    width: 30%;
     height: 10%;
 }
