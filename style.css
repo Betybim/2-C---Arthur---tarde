@@ -17,11 +17,16 @@ justify-content: space-around;
     color: #40f00b;
 }
 
-li{display: inline-block;
+li{
+    display: inline-block;
+    margin: 0 16px;
 }
-li{display: inline-block;
 
-}    
+li{    
+    display: inline-block;
+    margin: 0 16px;
+} 
+
 .cabeçalho-imagem{
     width: 20%;
     height: 10%;
