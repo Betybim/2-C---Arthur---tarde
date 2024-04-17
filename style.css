@@ -35,12 +35,19 @@ li{
     width: 10%;
 }
 
+.Seção1-div-conteúdo {
+    width: 30%;
+    padding: 24px,0;
+    justify-content: center;
+}
+
 .Seção1{
     background-image: linear-gradient(#4791A7,#438396);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 24px 0;
 }
 .Seção1-titulo{
     padding: 24px 0;
