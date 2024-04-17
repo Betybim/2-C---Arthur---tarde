@@ -41,11 +41,15 @@ li{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
-
 .Seção1-titulo{
     padding: 24px 0;
+}
+.Seção1-paragrafo1{
+    padding: 10px 0;
+}
+.Seção1-paragrafo2{
+    padding: 10px 0;
 }
 
 .Seção1-imagem {
