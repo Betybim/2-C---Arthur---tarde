@@ -35,7 +35,7 @@ li{
     width: 10%;
 }
 
-.seção1{
+.Seção1{
     background-image: linear-gradient(#4791A7,#438396);
     color: white;
     display: flex;
@@ -44,12 +44,16 @@ li{
 
 }
 
-.seção1-imagem {
+.Seção1-titulo{
+    padding: 20% 0;
+}
+
+.Seção1-imagem {
     width: 10%;
     padding: 24px 0;
     justify-content: center;
 
 }
-.seção1-imagem {
+.Seção1-imagem {
     width: 10%;
 }
