@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: sans-serif;
+}
+
 .cabeçalho {
  background-color:#4791A7;
  display: flex;
